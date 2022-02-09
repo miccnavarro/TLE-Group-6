@@ -6,7 +6,7 @@
 <b><center><font face="Garmond"><font size="50">Welcome!</font></center></b>
 <b><p align="center"> <font size="12"> This is our webpage </p> </font></b>
 <center><h6> <font size="12"> Please choose what subject you want to see 🙂 </h6> </font>
-<body background="249009125_1570800866605566_6981034320676093091_n.png">
+<body background="84248.png">
 <p align="center">
 </body>
 <a href="http://www.google.com">
